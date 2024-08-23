@@ -15,7 +15,6 @@ El propósito de este repositorio es servir como un recurso de referencia tanto 
 - Algoritmos de Ordenamiento: QuickSort, MergeSort, HeapSort
 - Algoritmos de Búsqueda: Búsqueda Binaria, Búsqueda Lineal
 - Grafos: Algoritmos de recorridos, Dijkstra, Floyd-Warshall
-- Otros: Programación dinámica, Backtracking, Algoritmos Greedy
-
+- 
 ## Contribuciones
 Las contribuciones son bienvenidas. Se agradecen las sugerencias y mejoras que puedan enriquecer este repositorio. Para ello, se invita a los interesados a abrir un issue o a enviar un pull request conforme a las pautas de colaboración.
