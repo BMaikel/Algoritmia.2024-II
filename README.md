@@ -1,4 +1,7 @@
 # Algoritmia.2024-II
+
+![Mi Amor <3](https://i.ibb.co/HhKvWHS/0191c9cc-f463-4c49-8381-ed5d89221db4.jpg)
+
 Este repositorio reúne las implementaciones desarrolladas en el marco del curso de Algoritmia correspondiente al ciclo 2024-II en la universidad. Los contenidos aquí presentados abarcan una amplia gama de temas fundamentales en algoritmia, incluyendo estructuras de datos, algoritmos de ordenamiento, búsqueda, grafos, entre otros, utilizando los lenguajes de programación R y Python.
 
 El propósito de este repositorio es servir como un recurso de referencia tanto para el seguimiento académico personal como para la comunidad interesada en el estudio y aplicación de algoritmos. 
